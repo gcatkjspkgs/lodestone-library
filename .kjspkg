@@ -1,0 +1,9 @@
+{
+    "author": "squoshi",
+    "description": "A script library that allows for better particle rendering in KubeJS via Lodestone. Docs: https://github.com/gcatkjspkgs/lodestone-library/blob/main/README.md",
+    
+    "versions": [8],
+    "modloaders": ["forge"],
+    "dependencies": ["mod:lodestone"],
+    "incompatibilities": []
+}
